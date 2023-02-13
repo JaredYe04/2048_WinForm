@@ -1,0 +1,12 @@
+G:\ProgramProjects\2048\2048\bin\Debug\2048.exe.config
+G:\ProgramProjects\2048\2048\bin\Debug\2048.exe
+G:\ProgramProjects\2048\2048\bin\Debug\2048.pdb
+G:\ProgramProjects\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+G:\ProgramProjects\2048\2048\obj\Debug\2048.csproj.SuggestedBindingRedirects.cache
+G:\ProgramProjects\2048\2048\obj\Debug\_2048.Form1.resources
+G:\ProgramProjects\2048\2048\obj\Debug\_2048.Game.resources
+G:\ProgramProjects\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+G:\ProgramProjects\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+G:\ProgramProjects\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+G:\ProgramProjects\2048\2048\obj\Debug\2048.exe
+G:\ProgramProjects\2048\2048\obj\Debug\2048.pdb
